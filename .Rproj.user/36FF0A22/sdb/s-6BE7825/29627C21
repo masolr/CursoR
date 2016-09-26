@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "git remote add origin git@github.com:EstadisticaUNTDF/test.git\n\ngit remote add origin https://github.com/masolr/CursoR.git\ngit push -u origin master",
+    "created" : 1474898360732.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "4146061690",
+    "id" : "29627C21",
+    "lastKnownWriteTime" : 30962681237012597,
+    "last_content_update" : 1474898898576,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

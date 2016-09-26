@@ -1,0 +1,26 @@
+---
+title: "Con hipervinculos"
+author: "María Sol Rodriguez"
+date: "23 de septiembre de 2016"
+output: html_document
+---
+
+[el sitio gapminder](https://www.gapminder.org/)
+
+
+
+```{r codigo-1,  echo=FALSE, fig.height=5 , fig.width=5}
+library(ggplot2)
+gapminder <- read.csv("data/gapminder-FiveYearData.csv")
+ggplot(data = gapminder, aes(x = gdpPercap, y = pop)) +
+  geom_point()
+
+```
+```{r  ,echo=FALSE}
+x <- 2 * pi
+
+```
+
+
+####Algun texto `r  round (x,2)` jjjj
+

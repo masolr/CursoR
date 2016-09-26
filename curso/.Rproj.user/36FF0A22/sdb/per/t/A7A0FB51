@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "read.csv(file=\"data/gapminder.csv\")\n\n\n\naust_subset <- gapminder[gapminder$country == \"Australia\",]\n\nwrite.table(aust_subset,\n            file = \"cleaned-data/gapminder-aus.csv\",\n            sep = \",\", quote = FALSE, row.names = FALSE\n)",
+    "created" : 1474545970122.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4141176731",
+    "id" : "A7A0FB51",
+    "lastKnownWriteTime" : 1474546736,
+    "last_content_update" : 1474546736614,
+    "path" : "~/R/cursi/curso/guardando datos.R",
+    "project_path" : "guardando datos.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

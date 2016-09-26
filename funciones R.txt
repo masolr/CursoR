@@ -1,0 +1,33 @@
+mi_suma <- function(a, b) {
+  suma <- a + b
+  return(suma)
+}
+
+kelvin_a_fahr <- function(temp) {
+  fahr <- (temp - 273.15) * (9/5) + 32
+  return(fahr)
+}
+
+kelvin_a_fahr (34)
+
+xxx <- c (273.15, 373.15)
+kelvin_a_fahr(xxx)
+
+
+cels_a_Kelvin <- function(temp) {
+  kelv <- (temp + 273.15) 
+  return(kelv)
+  
+}
+
+cels_a_Kelvin  (25)
+
+
+
+
+cels_a_fahr <- function (temp) {
+  fahr <- (temp  * (9/5) + 32)
+return(fahr)
+}
+
+cels_a_fahr (10)

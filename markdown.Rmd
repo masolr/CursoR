@@ -1,0 +1,27 @@
+
+
+
+---
+title: "Curso"
+author: "María Sol Rodriguez"
+date: "23 de septiembre de 2016"
+output: html_document
+---
+
+**negrita**
+__negrita__
+*italica*
+
+
+*item a
+
+*item b
+
+1. negrita con asteriscos dobles
+1. italica con guiones bajos
+1. código con comillas hacia atrás (backticks)
+
+# Título
+## Sección principal
+### Sub-sección
+#### Sub-sub sección
